@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219089323817",
+    "project_id": "technology-innovation-corp",
+    "storage_bucket": "technology-innovation-corp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219089323817:android:ed275f3a6a1234b2cf1938",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.hero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWAARlZYyCBezFM9yq3VuNITTo_xQQ_DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
